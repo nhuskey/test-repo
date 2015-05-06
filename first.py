@@ -1,5 +1,5 @@
 def cheese(x):
-    y = x ** 2
+    y = x ** 3
     return y
 
 print cheese(5)
